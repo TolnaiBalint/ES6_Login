@@ -104,7 +104,7 @@ button {
 
 .toggle {
     position: absolute;
-    top: 25%;
+    top: 50%;
     right: 16px;
     translate: 0 -50%;
     width: 30px;
